@@ -13,3 +13,6 @@ C:\Users\Bjerkerizzle\source\repos\Nextcom.Integrations\Nextcom.Integrations.Tes
 C:\Users\Bjerkerizzle\source\repos\Nextcom.Integrations\Nextcom.Integrations.TestConsole\obj\Debug\netcoreapp3.1\Nextcom.Integrations.TestConsole.dll
 C:\Users\Bjerkerizzle\source\repos\Nextcom.Integrations\Nextcom.Integrations.TestConsole\obj\Debug\netcoreapp3.1\Nextcom.Integrations.TestConsole.pdb
 C:\Users\Bjerkerizzle\source\repos\Nextcom.Integrations\Nextcom.Integrations.TestConsole\obj\Debug\netcoreapp3.1\Nextcom.Integrations.TestConsole.genruntimeconfig.cache
+C:\Users\Bjerkerizzle\source\repos\Nextcom.Integrations\Nextcom.Integrations.TestConsole\bin\Debug\netcoreapp3.1\Nextcom.Integrations.ThirdParties.Triplex.dll
+C:\Users\Bjerkerizzle\source\repos\Nextcom.Integrations\Nextcom.Integrations.TestConsole\bin\Debug\netcoreapp3.1\Nextcom.Integrations.ThirdParties.Triplex.pdb
+C:\Users\Bjerkerizzle\source\repos\Nextcom.Integrations\Nextcom.Integrations.TestConsole\obj\Debug\netcoreapp3.1\Nextcom.Integrations.TestConsole.csproj.CoreCompileInputs.cache

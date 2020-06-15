@@ -1,5 +1,4 @@
-﻿using Nextcom.Integrations.TestConsole;
-using RestSharp;
+﻿using RestSharp;
 using System;
 
 namespace Nextcom.Integrations.ThirdParties.Tripletex
@@ -9,7 +8,7 @@ namespace Nextcom.Integrations.ThirdParties.Tripletex
         protected AuthResponse AuthResponse { get; private set; }
 
         protected readonly string _baseUrl = @"https://api.tripletex.io/v2/";
-        protected readonly string _apiAuthEndpoint = @"https://api.tripletex.io/v2/token/session:create?";
+        protected readonly string _apiAuthEndpoint = @"https://api.tripletex.io/v2/token/session/:create?";
 
         private readonly Credentials _credentials;
 
@@ -54,8 +53,9 @@ namespace Nextcom.Integrations.ThirdParties.Tripletex
             var client = new RestClient(_apiAuthEndpoint);
             var request = new RestRequest();
 
-            request.AddHeader("accept", "application/json");
+            request.AddHeader("Accept", "application/json");
             request.AddHeader("Cookie", "JSESSIONID=DA71F395C0C2EF00451FFF8B9516B953");
+            request.AddParameter("text/plain", "", ParameterType.RequestBody);
             request.AddParameter("consumerToken", credentials.ConsumerToken);
             request.AddParameter("employeeToken", credentials.EmployeeToken);
             request.AddParameter("expirationDate", credentials.ExpirationDate);

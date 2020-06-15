@@ -3,3 +3,7 @@ C:\Users\Bjerkerizzle\source\repos\Nextcom.Integrations\Nextcom.Integrations.Thi
 C:\Users\Bjerkerizzle\source\repos\Nextcom.Integrations\Nextcom.Integrations.ThirdParties.Triplex\obj\Debug\netcoreapp3.1\Nextcom.Integrations.ThirdParties.Triplex.csprojAssemblyReference.cache
 C:\Users\Bjerkerizzle\source\repos\Nextcom.Integrations\Nextcom.Integrations.ThirdParties.Triplex\obj\Debug\netcoreapp3.1\Nextcom.Integrations.ThirdParties.Triplex.AssemblyInfoInputs.cache
 C:\Users\Bjerkerizzle\source\repos\Nextcom.Integrations\Nextcom.Integrations.ThirdParties.Triplex\obj\Debug\netcoreapp3.1\Nextcom.Integrations.ThirdParties.Triplex.AssemblyInfo.cs
+C:\Users\Bjerkerizzle\source\repos\Nextcom.Integrations\Nextcom.Integrations.ThirdParties.Triplex\bin\Debug\netcoreapp3.1\Nextcom.Integrations.ThirdParties.Triplex.pdb
+C:\Users\Bjerkerizzle\source\repos\Nextcom.Integrations\Nextcom.Integrations.ThirdParties.Triplex\obj\Debug\netcoreapp3.1\Nextcom.Integrations.ThirdParties.Triplex.csproj.CoreCompileInputs.cache
+C:\Users\Bjerkerizzle\source\repos\Nextcom.Integrations\Nextcom.Integrations.ThirdParties.Triplex\obj\Debug\netcoreapp3.1\Nextcom.Integrations.ThirdParties.Triplex.dll
+C:\Users\Bjerkerizzle\source\repos\Nextcom.Integrations\Nextcom.Integrations.ThirdParties.Triplex\obj\Debug\netcoreapp3.1\Nextcom.Integrations.ThirdParties.Triplex.pdb

@@ -6,10 +6,7 @@
 
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\Nextcom.Integrations.TestConsole\Nextcom.Integrations.TestConsole.csproj" />
+    <PackageReference Include="RestSharp" Version="106.11.4" />
   </ItemGroup>
 
 </Project>

@@ -10,4 +10,8 @@
     <PackageReference Include="RestSharp" Version="106.11.4" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Nextcom.Integrations.ThirdParties.Triplex\Nextcom.Integrations.ThirdParties.Triplex.csproj" />
+  </ItemGroup>
+
 </Project>
