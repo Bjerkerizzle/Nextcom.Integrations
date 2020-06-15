@@ -1,0 +1,15 @@
+C:\Users\Bjerkerizzle\source\repos\Nextcom.Integrations\Nextcom.Integrations.TestConsole\bin\Debug\netcoreapp3.1\Nextcom.Integrations.TestConsole.exe
+C:\Users\Bjerkerizzle\source\repos\Nextcom.Integrations\Nextcom.Integrations.TestConsole\obj\Debug\netcoreapp3.1\Nextcom.Integrations.TestConsole.csprojAssemblyReference.cache
+C:\Users\Bjerkerizzle\source\repos\Nextcom.Integrations\Nextcom.Integrations.TestConsole\obj\Debug\netcoreapp3.1\Nextcom.Integrations.TestConsole.AssemblyInfoInputs.cache
+C:\Users\Bjerkerizzle\source\repos\Nextcom.Integrations\Nextcom.Integrations.TestConsole\obj\Debug\netcoreapp3.1\Nextcom.Integrations.TestConsole.AssemblyInfo.cs
+C:\Users\Bjerkerizzle\source\repos\Nextcom.Integrations\Nextcom.Integrations.TestConsole\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Bjerkerizzle\source\repos\Nextcom.Integrations\Nextcom.Integrations.TestConsole\obj\Debug\netcoreapp3.1\Nextcom.Integrations.TestConsole.csproj.CopyComplete
+C:\Users\Bjerkerizzle\source\repos\Nextcom.Integrations\Nextcom.Integrations.TestConsole\bin\Debug\netcoreapp3.1\Nextcom.Integrations.TestConsole.deps.json
+C:\Users\Bjerkerizzle\source\repos\Nextcom.Integrations\Nextcom.Integrations.TestConsole\bin\Debug\netcoreapp3.1\Nextcom.Integrations.TestConsole.runtimeconfig.json
+C:\Users\Bjerkerizzle\source\repos\Nextcom.Integrations\Nextcom.Integrations.TestConsole\bin\Debug\netcoreapp3.1\Nextcom.Integrations.TestConsole.runtimeconfig.dev.json
+C:\Users\Bjerkerizzle\source\repos\Nextcom.Integrations\Nextcom.Integrations.TestConsole\bin\Debug\netcoreapp3.1\Nextcom.Integrations.TestConsole.dll
+C:\Users\Bjerkerizzle\source\repos\Nextcom.Integrations\Nextcom.Integrations.TestConsole\bin\Debug\netcoreapp3.1\Nextcom.Integrations.TestConsole.pdb
+C:\Users\Bjerkerizzle\source\repos\Nextcom.Integrations\Nextcom.Integrations.TestConsole\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Bjerkerizzle\source\repos\Nextcom.Integrations\Nextcom.Integrations.TestConsole\obj\Debug\netcoreapp3.1\Nextcom.Integrations.TestConsole.dll
+C:\Users\Bjerkerizzle\source\repos\Nextcom.Integrations\Nextcom.Integrations.TestConsole\obj\Debug\netcoreapp3.1\Nextcom.Integrations.TestConsole.pdb
+C:\Users\Bjerkerizzle\source\repos\Nextcom.Integrations\Nextcom.Integrations.TestConsole\obj\Debug\netcoreapp3.1\Nextcom.Integrations.TestConsole.genruntimeconfig.cache

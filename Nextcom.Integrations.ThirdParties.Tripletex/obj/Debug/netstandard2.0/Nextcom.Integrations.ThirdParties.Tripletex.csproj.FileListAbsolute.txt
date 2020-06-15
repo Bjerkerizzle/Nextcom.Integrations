@@ -1,0 +1,5 @@
+C:\Users\Bjerkerizzle\source\repos\Nextcom.Integrations\Nextcom.Integrations.ThirdParties.Tripletex\bin\Debug\netstandard2.0\Nextcom.Integrations.ThirdParties.Tripletex.deps.json
+C:\Users\Bjerkerizzle\source\repos\Nextcom.Integrations\Nextcom.Integrations.ThirdParties.Tripletex\bin\Debug\netstandard2.0\Nextcom.Integrations.ThirdParties.Tripletex.dll
+C:\Users\Bjerkerizzle\source\repos\Nextcom.Integrations\Nextcom.Integrations.ThirdParties.Tripletex\obj\Debug\netstandard2.0\Nextcom.Integrations.ThirdParties.Tripletex.csprojAssemblyReference.cache
+C:\Users\Bjerkerizzle\source\repos\Nextcom.Integrations\Nextcom.Integrations.ThirdParties.Tripletex\obj\Debug\netstandard2.0\Nextcom.Integrations.ThirdParties.Tripletex.AssemblyInfoInputs.cache
+C:\Users\Bjerkerizzle\source\repos\Nextcom.Integrations\Nextcom.Integrations.ThirdParties.Tripletex\obj\Debug\netstandard2.0\Nextcom.Integrations.ThirdParties.Tripletex.AssemblyInfo.cs
